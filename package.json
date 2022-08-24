@@ -1,5 +1,5 @@
 {
-  "name": "gitter",
+  "name": "@coatl/gitter",
   "version": "0.0.1",
   "description": "command line tool to structure git commits",
   "main": "bin/gitter.js",
