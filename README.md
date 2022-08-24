@@ -1,0 +1,15 @@
+# Gitter
+
+Gitter is a CLI tool for modeling conventional commit messages and formatting them.
+
+## Installation
+
+```bash
+npm install -g @coatl/gitter
+
+# or using yarn
+yarn global add @coatl/gitter
+
+# or using pnpm
+pnpm add -g @coatl/gitter
+```
