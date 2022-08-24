@@ -1,6 +1,6 @@
 {
   "name": "@coatl/gitter",
-  "version": "0.0.1",
+  "version": "0.0.9",
   "description": "command line tool to structure git commits",
   "main": "bin/gitter.js",
   "type": "module",
