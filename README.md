@@ -1,6 +1,8 @@
 # Gitter
 
-Gitter is a CLI tool for modeling conventional commit messages and formatting them.
+![Preview](./preview.jpg)
+
+Gitter is a CLI tool for modeling conventional commit messages, formatting and other operations related to git.
 
 ## Installation
 
