@@ -1,0 +1,36 @@
+{
+  "name": "gitter",
+  "version": "0.0.1",
+  "description": "command line tool to structure git commits",
+  "main": "bin/gitter.js",
+  "type": "module",
+  "bin": {
+    "gitter": "bin/gitter.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coatl-labs/gitter.git"
+  },
+  "keywords": [
+    "git",
+    "commits",
+    "semantic",
+    "emoji",
+    "format",
+    "logs"
+  ],
+  "author": "Coatl | Carlos Burelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coatl-labs/gitter/issues"
+  },
+  "homepage": "https://github.com/coatl-labs/gitter#readme",
+  "dependencies": {
+    "@inquirer/confirm": "0.0.23-alpha.0",
+    "@inquirer/input": "0.0.24-alpha.0",
+    "@inquirer/select": "0.0.24-alpha.0"
+  }
+}
